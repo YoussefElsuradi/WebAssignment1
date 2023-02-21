@@ -7,6 +7,19 @@
     background-color: green;
     display: flex; 
     justify-content: center; 
-    
 
+}
+
+.catimg1 {
+    width: 40%;
+    height: auto;
+}
+
+.outline td{
+    border: 1px solid black;
+}
+
+.dogs {
+    width: 30%;
+    height: auto;
 }
