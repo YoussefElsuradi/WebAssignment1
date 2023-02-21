@@ -5,8 +5,12 @@
 
 .pagebutton {
     background-color: green;
-    display: flex; 
+    width: 30%;
+    height: auto;
+    display: inline-block;
     justify-content: center; 
+    position: relative;
+    text-align: center;
 
 }
 
